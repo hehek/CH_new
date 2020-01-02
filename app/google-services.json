@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135931656064",
+    "firebase_url": "https://chat-room-bda1f.firebaseio.com",
+    "project_id": "chat-room-bda1f",
+    "storage_bucket": "chat-room-bda1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135931656064:android:fda998bf0c6bdf10dc7365",
+        "android_client_info": {
+          "package_name": "com.pav.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135931656064-t2evm2rruvv977l3rgdlb7c7oomr16qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pav.myapplication",
+            "certificate_hash": "9b9c039769971f9e20e823292f6c5c4430e3f461"
+          }
+        },
+        {
+          "client_id": "135931656064-oiam265m1vj5v82inlbc1uvicrka1qdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvKqcp-KEKEqPbFyuVw5jMVxpyXQXXhko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135931656064-oiam265m1vj5v82inlbc1uvicrka1qdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
